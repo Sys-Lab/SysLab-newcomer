@@ -14,12 +14,12 @@
  - 阅读并尝试使用[GitHub工作流程](https://guides.github.com/introduction/flow/)
  - [翻墙](http://www.appifan.com/jc/201209/35517.html)(如果是 MAC 用户请联系 @langker)
  - 相关网站推荐
- 	* [google](https://www.google.com.hk/)
- 	* [stackoverflow](https://stackoverflow.com/)
- 	* [伯乐在线](http://blog.jobbole.com/)
- 	* [V2EX](http://www.v2ex.com/)
- 	* [知乎](http://www.zhihu.com)
- 	
+    * [google](https://www.google.com.hk/)
+    * [stackoverflow](https://stackoverflow.com/)
+    * [伯乐在线](http://blog.jobbole.com/)
+    * [V2EX](http://www.v2ex.com/)
+    * [知乎](http://www.zhihu.com)
+    
 
 ##前端
 
@@ -34,6 +34,11 @@
 - 若有其他资料需要,请联系管理员 @langker
 
 ##设计
+- [UI 基础知识](http://www.zcool.com.cn/work/ZNDI5NjcwNA==.html)
+- [WEB安全色](http://www.bootcss.com/p/websafecolors/)
+- [WEB 设计规范](http://blog.csdn.net/m13666368773/article/details/8020928)
+- [安卓设计规范](http://www.visionunion.com/article.jsp?code=201201180018)
+
 
 ##考核相关
 一般来说我们招新是分为三部分的:一面,二面,一个月技术考核.若能看到本仓库,便是顺利通过一面二面,进入到最后的技术考核阶段了.
