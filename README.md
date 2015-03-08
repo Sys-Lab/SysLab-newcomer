@@ -19,6 +19,7 @@
     * [伯乐在线](http://blog.jobbole.com/)
     * [V2EX](http://www.v2ex.com/)
     * [知乎](http://www.zhihu.com)
+    * [翻墙神器ss](https://github.com/shadowsocks/shadowsocks)
     
 
 ##前端
