@@ -24,15 +24,16 @@
 
 ##前端
 
+ - 学习[HTML入门](http://www.w3schools.com/html/default.asp)  
  - 阅读[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
  - 阅读[w3c css 教程](http://www.w3school.com.cn/css/index.asp)
  - 学习[JSON格式](http://www.w3school.com.cn/json/)
+ - 学习[jQuery](http://www.w3schools.com/jquery/default.asp)
 
 ##前端进阶
 
- - 阅读[前端自动化工作流程及前端模块化](http://segmentfault.com/a/1190000002413535)
- - 学习Jquery库
  - 学习[Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/) 等UI框架  
+ - 阅读[前端自动化工作流程及前端模块化](http://segmentfault.com/a/1190000002413535)
  - 学习LESS, SASS等CSS预编译语言  
  - 学习angular, React, vue等前端MV*模型框架  
  - 深入学习前端组件化模块化，学习CoffeeScript, ES6, JSX等语言，学习babel, webpack等工具  
