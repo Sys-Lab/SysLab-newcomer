@@ -28,11 +28,22 @@
  - 阅读[w3c css 教程](http://www.w3school.com.cn/css/index.asp)
  - 学习[JSON格式](http://www.w3school.com.cn/json/)
 
+##前端进阶
+
+ - 阅读[前端自动化工作流程及前端模块化](http://segmentfault.com/a/1190000002413535) 
+ - 学习[Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/) 等UI框架  
+ - 学习LESS, SASS等CSS预编译语言  
+ - 学习angular, React, vue等前端MV*模型框架  
+ - 深入学习前端组件化模块化，学习CoffeeScript, ES6, JSX等语言，学习babel, webpack等工具  
+ - 若有其他资料需要,请联系管理员 @langker, @Chion82
+
 ##后端
 - [php](http://www.w3school.com.cn/php/)
 - [nodejs](https://github.com/langker/newcomer/blob/master/Basic/node-and-tools.md)
 - [python](http://djangobook.py3k.cn/2.0/)
-- 若有其他资料需要,请联系管理员 @langker
+- [Express](http://expressjs.com/)
+- [Flask](http://flask.pocoo.org/)
+- 若有其他资料需要,请联系管理员 @langker, @Chion82
 
 ##设计
 - [UI 基础知识](http://www.zcool.com.cn/work/ZNDI5NjcwNA==.html)
