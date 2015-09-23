@@ -30,7 +30,8 @@
 
 ##前端进阶
 
- - 阅读[前端自动化工作流程及前端模块化](http://segmentfault.com/a/1190000002413535) 
+ - 阅读[前端自动化工作流程及前端模块化](http://segmentfault.com/a/1190000002413535)
+ - 学习Jquery库
  - 学习[Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/) 等UI框架  
  - 学习LESS, SASS等CSS预编译语言  
  - 学习angular, React, vue等前端MV*模型框架  
