@@ -1,4 +1,4 @@
-#SysLab新人指南
+﻿#SysLab新人指南
 
 本仓库用于为刚加入SysLab的同学专用指南,旨在为大家快速融入 SysLab,希望大家根据自己的岗位,迅速掌握相关方面的知识;对于新人,希望在一个月内,和自己的团队利用所学知识,快速构建运用,了解产品运作机制,做好进来的最后一关.
 ##准备
@@ -12,7 +12,8 @@
  - 了解[issue](https://guides.github.com/features/issues/)
  - 掌握[markdown](https://guides.github.com/features/mastering-markdown/)
  - 阅读并尝试使用[GitHub工作流程](https://guides.github.com/introduction/flow/)
- - [翻墙](https://github.com/goagent/goagent/blob/wiki/InstallGuide.md)(如果是 MAC 用户请联系 @langker)
+ - 在提问之前，请先阅读[提问的智慧](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+ - [翻墙](http://www.appifan.com/jc/201209/35517.html)(如果是 MAC 用户请联系 @langker)
  - 相关网站推荐
     * [google](https://www.google.com.hk/)
     * [stackoverflow](https://stackoverflow.com/)
@@ -46,6 +47,11 @@
 - [Express](http://expressjs.com/)
 - [Flask](http://flask.pocoo.org/)
 - 若有其他资料需要,请联系管理员 @langker, @Chion82
+
+##Android开发
+- [Android官方培训教程(自备梯子)](http://developer.android.com/intl/zh-cn/training/index.html)
+- [Android官方培训课程中文版(v0.9.2)](https://kesenhoo.gitbooks.io/android-training-course-in-chinese/content/)
+- [慕课网Android工程师学习计划](http://www.imooc.com/course/programdetail/pid/33)
 
 ##设计
 - [UI 基础知识](http://www.zcool.com.cn/work/ZNDI5NjcwNA==.html)
