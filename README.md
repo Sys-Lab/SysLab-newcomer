@@ -12,6 +12,7 @@
  - 了解[issue](https://guides.github.com/features/issues/)
  - 掌握[markdown](https://guides.github.com/features/mastering-markdown/)
  - 阅读并尝试使用[GitHub工作流程](https://guides.github.com/introduction/flow/)
+ - 在提问之前，请先阅读[提问的智慧](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
  - [翻墙](http://www.appifan.com/jc/201209/35517.html)(如果是 MAC 用户请联系 @langker)
  - 相关网站推荐
     * [google](https://www.google.com.hk/)
