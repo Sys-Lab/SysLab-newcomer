@@ -34,6 +34,11 @@
 - [python](http://djangobook.py3k.cn/2.0/)
 - 若有其他资料需要,请联系管理员 @langker
 
+##Android开发
+- [Android官方培训教程(自备梯子)](http://developer.android.com/intl/zh-cn/training/index.html)
+- [Android官方培训课程中文版(v0.9.2)](https://kesenhoo.gitbooks.io/android-training-course-in-chinese/content/)
+- [慕课网Android工程师学习计划](http://www.imooc.com/course/programdetail/pid/33)
+
 ##设计
 - [UI 基础知识](http://www.zcool.com.cn/work/ZNDI5NjcwNA==.html)
 - [WEB安全色](http://www.bootcss.com/p/websafecolors/)
