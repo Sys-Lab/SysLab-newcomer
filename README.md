@@ -46,12 +46,14 @@
 - [python](http://djangobook.py3k.cn/2.0/)
 - [Express](http://expressjs.com/)
 - [Flask](http://flask.pocoo.org/)
-- 若有其他资料需要,请联系管理员 @langker, @Chion82
+- 若有其他资料需要,请联系管理员 [@langker](https://github.com/langker), [@Chion82](https://github.com/Chion82)
 
 ##Android开发
 - [Android官方培训教程(自备梯子)](http://developer.android.com/intl/zh-cn/training/index.html)
 - [Android官方培训课程中文版(v0.9.2)](https://kesenhoo.gitbooks.io/android-training-course-in-chinese/content/)
+- [AndroidDevTools](http://www.androiddevtools.cn/)
 - [慕课网Android工程师学习计划](http://www.imooc.com/course/programdetail/pid/33)
+- 若有其他资料需要，请联系管理员 [@EverNever](https://github.com/EverNever)
 
 ##设计
 - [UI 基础知识](http://www.zcool.com.cn/work/ZNDI5NjcwNA==.html)
