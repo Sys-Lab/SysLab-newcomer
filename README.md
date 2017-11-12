@@ -43,9 +43,11 @@
 ##后端
 - [php](http://www.w3school.com.cn/php/)
 - [nodejs](https://github.com/langker/newcomer/blob/master/Basic/node-and-tools.md)
-- [python](http://djangobook.py3k.cn/2.0/)
+- [Python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+- [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Express](http://expressjs.com/)
 - [Flask](http://flask.pocoo.org/)
+- [Django](http://djangobook.py3k.cn/2.0/)
 - 若有其他资料需要,请联系管理员 [@langker](https://github.com/langker), [@Chion82](https://github.com/Chion82)
 
 ##Android开发
